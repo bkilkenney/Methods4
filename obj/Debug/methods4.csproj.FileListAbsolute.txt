@@ -1,0 +1,6 @@
+c:\users\bkilkenney\documents\visual studio 2015\Projects\methods4\methods4\bin\Debug\methods4.exe.config
+c:\users\bkilkenney\documents\visual studio 2015\Projects\methods4\methods4\bin\Debug\methods4.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\methods4\methods4\bin\Debug\methods4.pdb
+c:\users\bkilkenney\documents\visual studio 2015\Projects\methods4\methods4\obj\Debug\methods4.csprojResolveAssemblyReference.cache
+c:\users\bkilkenney\documents\visual studio 2015\Projects\methods4\methods4\obj\Debug\methods4.exe
+c:\users\bkilkenney\documents\visual studio 2015\Projects\methods4\methods4\obj\Debug\methods4.pdb
